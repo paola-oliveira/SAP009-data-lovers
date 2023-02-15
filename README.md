@@ -65,13 +65,15 @@ O site foi pensando para ser utilizado quando fãs do desenho quiserem ter mais 
 
 #### Protótipo de alta fidelidade
 
-#####Protótipo para Desktop
+Protótipo para Desktop
 ![Protótipo de alta fidelidade, para Desktop](desktop.png)
 
-#####Protótipo para Mobile 
+Protótipo para Mobile
+
 ![Protótipo de alta fidelidade, para Mobile](mobile.png)
 
-#####Paleta de cores utilizada
+Paleta de cores utilizada
+
 ![Paleta de Cores](paleta-de-cores.png)
 
 
